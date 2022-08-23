@@ -1,26 +1,39 @@
-# toki-pona-Wordlist-and-Phraselist
-A CSV and Markdown list of toki pona words and phrases
+<!--
+| ID | toki pona (Latin Alphabet) | English | sitelen pona (Hieroglyphs) | sitelen emoji | 
+|-|-|-|-|-|
 
-## What should be included for each word
-- latin alphabet
-- sitelen pona (hieroglyphs)
-- sitelen emoji
-- translation of word to english
+To Dos:
 - other common writing systems
+-->
+# Table of Contents
+- [nimi pu]()
+- [nimi ku suli]()
+- [nimi ku]()
+- [Language Names from pu]()
+  - [Conlangs]()
+  - [Sign Languages]()
+- [Country Names from pu]()
+  - [Africa]()
+  - [Asia]()
+  - [Europe]()
+  - [North America]()
+  - [South America]()
+  - [Oceania]()
+- [Continent Names from pu]()
+- [Phrase Book from pu]()
 
-## Word Groups to Include
-- nimi pu
-- nimi ku suli
-- nimi ku
-- language names from pu
-  - conlangs
-  - sign languages
-- country names from pu
-  - africa
-  - asia
-  - europe
-  - north america
-  - south america
-  - oceania
-- continent names from pu
-- phrase book from pu
+# nimi pu
+# nimi ku suli
+# nimi ku
+# Language Names from pu
+## Conlangs
+## Sign Languages
+# Country Names from pu
+## Africa
+## Asia
+## Europe
+## North America
+## South America
+## Oceania
+# Continent Names from pu
+# Phrase Book from pu
