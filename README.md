@@ -6,34 +6,38 @@ To Dos:
 - other common writing systems
 -->
 # Table of Contents
-- [nimi pu](#nimi-pu)
-- [nimi ku suli]()
-- [nimi ku]()
-- [Language Names from pu]()
-  - [Conlangs]()
-  - [Sign Languages]()
-- [Country Names from pu]()
-  - [Africa]()
-  - [Asia]()
-  - [Europe]()
-  - [North America]()
-  - [South America]()
-  - [Oceania]()
-- [Continent Names from pu]()
-- [Phrase Book from pu]()
+- [pu](#pu)
+  - [nimi pu](#nimi-pu)
+  - [Language Names](#language-names)
+    - [Conlangs](#conlangs)
+    - [Sign Languages](#sign-languages)
+  - [Country Names](#country-names)
+    - [Africa](#africa)
+    - [Asia](#asia)
+    - [Europe](#europe)
+    - [North America](#north-america)
+    - [South America](#south-america)
+    - [Oceania](#oceania)
+  - [Continent Names](#continent-names)
+  - [Phrase Book](#phrase-book)
+- [ku](#ku)
+  - [nimi ku suli](#nimi-ku-suli)
+  - [nimi ku](#nimi-ku)
 
-# nimi pu
-# nimi ku suli
-# nimi ku
-# Language Names from pu
-## Conlangs
-## Sign Languages
-# Country Names from pu
-## Africa
-## Asia
-## Europe
-## North America
-## South America
-## Oceania
-# Continent Names from pu
-# Phrase Book from pu
+# pu
+## nimi pu
+## Language Names
+### Conlangs
+### Sign Languages
+## Country Names
+### Africa
+### Asia
+### Europe
+### North America
+### South America
+### Oceania
+## Continent Names
+## Phrase Book
+# ku
+## nimi ku suli
+## nimi ku
