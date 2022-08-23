@@ -6,7 +6,7 @@ To Dos:
 - other common writing systems
 -->
 # Table of Contents
-- [nimi pu]()
+- [nimi pu](#nimi-pu)
 - [nimi ku suli]()
 - [nimi ku]()
 - [Language Names from pu]()
