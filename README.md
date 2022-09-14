@@ -22,7 +22,7 @@ To Dos:
   - [Phrase Book](#phrase-book)
 - [ku](#ku)
   - [nimi ku suli](#nimi-ku-suli)
-  - [nimi ku](#nimi-ku)
+  - [nimi ku pi suli ala](#nimi-ku-pi-suli-ala)
 
 # pu
 ## nimi pu
@@ -40,4 +40,4 @@ To Dos:
 ## Phrase Book
 # ku
 ## nimi ku suli
-## nimi ku
+## nimi ku pi suli ala
